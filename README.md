@@ -27,3 +27,9 @@
 积极开发中，请稍候……
 
 （画大饼，画大饼~
+
+## 交流
+
+Github Discussions：[讨论区](https://github.com/AsgardMoe/About/discussions)
+
+其他区域还在开发中，以后才能解锁。
